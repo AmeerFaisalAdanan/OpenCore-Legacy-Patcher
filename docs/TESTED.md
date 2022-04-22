@@ -61,6 +61,7 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | ^^ | ^^ | casey1234 | - RAM and SSD Upgrade <br/>- Patcher version 0.3.3 |
 | MacBookPro10,1 | ^^ | traviswparker | - Stock model <br/>- Patcher version 0.0.14 |
 | ^^ | ^^ | il-rollino | - Upgraded BCM94360CSAX <br/>- Patcher version 0.0.21 |
+| ^^ | ^^ | AmeerFaisalAdanan | - Stock Model <br/>- Patcher version 0.4.3 |
 | MacBookPro10,2 | ^^ | akidone | - Upgraded BCM94360CSAX <br/>- Patcher version 0.3.0 |
 | MacBookPro11,2 | ^^ | casey1234 | - Stock model<br/>- Patcher version 0.3.3 |
 
